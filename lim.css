@@ -1,0 +1,100 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+.box{
+  width: 850px;
+  height: 600px;
+  margin: auto;
+  align-items: center;
+  border-radius: 2%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+/* header */
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 170px;
+  padding: 80px;
+}
+.titolo{
+  font-family: "helvetica";
+  font-size: 20px;
+  color: lime;
+  padding: -150px;
+  text-align: center;
+  position: relative;
+  top: -70px;
+}
+/* nav */
+#button-interaction{
+  text-align: center;
+  top: -70px;
+  position: relative;
+  padding: 10px;
+  background-color: lime;
+  margin-inline: 70px;
+  }
+  /* main */
+.via{
+  font-size: 13px;
+  position: relative;
+  top: -7px;
+  }
+.carica{
+  font-family: helvetica;
+  font-size: 15px;
+  position: relative;
+  top: -16px;
+  }
+.Monopattino1{
+  display: inline-block;
+  font-size: 18px;
+  font-family: helvetica;
+  color: white;
+  margin-left: 70px;
+  position: relative;
+  top: -50px;
+}
+.barra-arancione{
+  background-color: orange;
+  width: 200px;
+  height: 20px;
+  border-radius: 4%;
+  position: relative;
+  top: -30px;
+}
+.Monopattino2{
+  font-size: 18px;
+  font-family: helvetica;
+  color: white;
+  margin-left: 70px;
+  position: relative;
+  top: -60px;
+}
+.barra-verde{
+  background-color: lime;
+  width: 450px;
+  height: 20px;
+  border-radius: 4%;
+  position: relative;
+  top: -30px;
+}
+.Monopattino3{
+  font-size: 18px;
+  font-family: helvetica;
+  color: white;
+  margin-left: 70px;
+  position: relative;
+  top: -70px;
+}
+.barra-rossa{
+  background-color: #cb2821;
+  width: 100px;
+  height: 20px;
+  border-radius: 5%;
+  position: relative;
+  top: -30px;
+  }
